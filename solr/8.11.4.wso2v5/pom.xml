@@ -275,7 +275,7 @@
         <jetty.version>9.4.58.v20250814</jetty.version>
         <rrd4j.version>3.8.1</rrd4j.version>
         <calcite.version>1.42.0</calcite.version>
-        <version.avatica.core>1.22.0</version.avatica.core>
+        <version.avatica.core>1.28.0</version.avatica.core>
         <version.locationtech.spatial4j>0.8</version.locationtech.spatial4j>
         <commons.collection.version>4.4.wso2v1</commons.collection.version>
         <caffeine.version>2.9.2</caffeine.version>
